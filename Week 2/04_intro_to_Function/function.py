@@ -1,6 +1,3 @@
-from audioop import mul
-
-
 def double_it(num):
   result = num * 2
   print(result)
